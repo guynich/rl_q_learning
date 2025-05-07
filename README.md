@@ -34,7 +34,7 @@ S . . .
 
 First clone this repo.
 ```console
-sudo apt install git
+sudo apt install git git-lfs
 
 git clone git@github.com:guynich/rl_q_learning.git
 ```
