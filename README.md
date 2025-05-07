@@ -32,6 +32,8 @@ S . . .
 
 # Installation
 
+Tested on Ubuntu Desktop 22.04.
+
 First clone this repo.
 ```console
 sudo apt install git git-lfs
@@ -39,7 +41,7 @@ sudo apt install git git-lfs
 git clone git@github.com:guynich/rl_q_learning.git
 ```
 
-Create a virtual environment and install packages.  Tested on Ubuntu 22.04.
+Create a virtual environment and install packages.
 ```console
 sudo apt install -y python3.10-venv
 sudo apt-get install python3-tk
