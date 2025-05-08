@@ -70,3 +70,8 @@ Example run with 100 episodes.  The blue square is the goal.
 ![](assets/q_learning_animation.gif)
 
 Reload this web page to restart the animation.
+
+# Next steps
+
+Great demo for Deep Q Learning : https://projects.rajivshah.com/rldemo/
+
